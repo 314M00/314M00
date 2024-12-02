@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @314M00
+- 👋 Hi, I’m Elam Sanchez
+- 
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
