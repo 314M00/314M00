@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elam Sanchez
+- 👋 Hola, I’m Elam Sanchez
 - 
 <!--
 - 👀 I’m interested in ...
