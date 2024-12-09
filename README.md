@@ -1,5 +1,5 @@
-- 👋 Hola, I’m Elam Sanchez
-- 
+- 👋 Hola, Soy Elam Sanchez y soy Ingeniero en Sistemas
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
